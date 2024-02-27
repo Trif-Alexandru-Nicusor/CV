@@ -1,0 +1,244 @@
+Birouri teritoriale Cetatenie
+Curtea de Apel Alba Iulia
+Curtea de Apel Bacău
+Curtea de Apel Brașov
+Curtea de Apel București
+Curtea de Apel Cluj
+Curtea de Apel Constanța
+Curtea de Apel Craiova
+Curtea de Apel Galați
+Curtea de Apel Iași
+Curtea de Apel Oradea
+Curtea de Apel Pitești
+Curtea de Apel Ploiești
+Curtea de Apel Suceava
+Curtea de Apel Târgu Mureș
+Curtea de Apel Timișoara
+Tribunalul Alba
+-Judecătoria Aiud
+-Judecătoria Alba Iulia
+-Judecătoria Blaj
+-Judecătoria Câmpeni
+-Judecătoria Sebeș
+Tribunalul Arad
+-Judecătoria Arad
+-Judecătoria Chișineu-Criș
+-Judecătoria Gurahonț
+-Judecătoria Ineu
+-Judecătoria Lipova
+Tribunalul Argeș
+-Judecătoria Câmpulung
+-Judecătoria Costești
+-Judecătoria Curtea De Argeș
+-Judecătoria Pitești
+-Judecătoria Topoloveni
+Tribunalul Bacău
+-Judecătoria Bacău
+-Judecătoria Buhuși
+-Judecătoria Moinești
+-Judecătoria Onești
+-Judecătoria Podu Turcului
+Tribunalul Bihor
+-Judecătoria Aleșd
+-Judecătoria Beiuș
+-Judecătoria Marghita
+-Judecătoria Oradea
+-Judecătoria Salonta
+-Serviciul de Probațiune Bihor
+Tribunalul Bistrița-Năsăud
+-Judecătoria Beclean
+-Judecătoria Bistrița
+-Judecătoria Năsăud
+Tribunalul Botoșani
+-Judecătoria Botosani
+-Judecătoria Darabani
+-Judecătoria Dorohoi
+-Judecătoria Săveni
+Tribunalul Brăila
+-Judecătoria Brăila
+-Judecătoria Făurei
+-Judecătoria Însurăței
+Tribunalul Brașov
+-Judecătoria Brașov
+-Judecătoria Făgăraș
+-Judecătoria Rupea
+-Judecătoria Zărnești
+Tribunalul București
+-Judecătoria Sectorului 1 București
+-Judecătoria Sectorului 2 București
+-Judecătoria Sectorului 3 București
+-Judecătoria Sectorului 4 București
+-Judecătoria Sectorului 5 București
+-Judecătoria Sectorului 6 București
+Tribunalul Buzău
+-Judecătoria Buzău
+-Judecătoria Pătârlagele
+-Judecătoria Pogoanele
+-Judecătoria Râmnicu Sărat
+Tribunalul Călărași
+-Judecătoria Călărași
+-Judecătoria Lehliu-Gară
+-Judecătoria Oltenița
+Tribunalul Caraș-Severin
+-Judecătoria Bozovici
+-Judecătoria Caransebes
+-Judecătoria Moldova Noua
+-Judecătoria Oravita
+-Judecătoria Resita
+Tribunalul Cluj
+-Judecatoria Cluj-Napoca
+-Judecatoria Dej
+-Judecatoria Gherla
+-Judecatoria Turda
+Tribunalul Comercial Argeș
+-Utilizizatori
+Tribunalul Comercial Cluj
+-Utilizizatori
+Tribunalul Comercial Mureș
+-Utilizizatori
+Tribunalul Constanta
+-Judecătoria Constanța
+-Judecătoria H�rsova
+-Judecatoria Mangalia
+-Judecatoria Medgidia
+Tribunalul Covasna
+-Judecătoria Întorsura Buzăului
+-Judecătoria Sfântu Gheorghe
+-Judecătoria Târgu Secuiesc
+Tribunalul Dâmbovita
+-Judecătoria Găești
+-Judecătoria Moreni
+-Judecătoria Pucioasa
+-Judecătoria Răacari
+-Judecătoria Târgoviște
+Tribunalul Dolj
+-Judecătoria Băilești
+-Judecătoria Calafat
+-Judecătoria Craiova
+-Judecătoria Filiași
+-Judecătoria Segarcea
+Tribunalul Galati
+-Judecătoria Galați
+-Judecătoria Liești
+-Judecătoria Târgu Bujor
+-Judecătoria Tecuci
+Tribunalul Giurgiu
+-Judecătoria Bolintin-Vale
+-Judecătoria Giurgiu
+Tribunalul Gorj
+-Judecătoria Motru
+-Judecătoria Novaci
+-Judecătoria Târgu Cărbunești
+-Judecătoria Târgu Jiu
+Tribunalul Harghita
+-Judecătoria Gheorgheni
+-Judecătoria Miercurea-Ciuc
+-Judecătoria Odorheiu Secuiesc
+-Judecătoria Toplița
+Tribunalul Hunedoara
+-Judecătoria Brad
+-Judecătoria Deva
+-Judecătoria Hateg
+-Judecătoria Hunedoara
+-Judecătoria Orăștie
+-Judecătoria Petroșani
+Tribunalul Ialomita
+-Judecătoria Fetești
+-Judecătoria Slobozia
+-Judecătoria Urziceni
+Tribunalul Iași
+-Judecătoria Hârlău
+-Judecătoria Iași
+-Judecătoria Pașcani
+-Judecătoria Răducăneni
+Tribunalul Ilfov
+-Judecătoria Buftea
+-Judecătoria Cornetu
+-Serviciul de Probatiune
+Tribunalul Maramureș
+-Judecătoria Baia Mare
+-Judecătoria Dragomirești
+-Judecătoria Sighetu Marmației
+-Judecătoria Șomcuta Mare
+-Judecătoria Târgu Lăpuș
+-Judecătoria Vișeu De Dus
+Tribunalul Mehedinti
+-Judecătoria Baia De Arama
+-Judecătoria Drobeta-Turnu Severin
+-Judecătoria Orșova
+-Judecătoria Strehaia
+-Judecătoria Vânju Mare
+Tribunalul Mureș
+-Judecătoria Luduș
+-Judecătoria Reghin
+-Judecătoria Sighisoara
+-Judecătoria Târgu Mureș
+-Judecătoria Tânăveni
+Tribunalul Neamț
+-Judecătoria Bicaz
+-Judecătoria Piatra Neamț
+-Judecătoria Roman
+-Judecătoria Târgu Neamț
+Tribunalul Olt
+-Judecătoria Balș
+-Judecătoria Caracal
+-Judecătoria Corabia
+-Judecătoria Slatina
+Tribunalul Prahova
+-Judecătoria Câmpina
+-Judecătoria Mizil
+-Judecătoria Ploiești
+-Judecătoria Sinaia
+-Judecătoria Vălenii De Munte
+Tribunalul Sălaj
+-Judecătoria Jibou
+-Judecătoria Șimleu Silvaniei
+-Judecătoria Zalău
+Tribunalul Satu Mare
+-Judecătoria Carei
+-Judecătoria Negresti Oras
+-Judecătoria Satu Mare
+Tribunalul Sibiu
+-Judecătoria Agnita
+-Judecătoria Avrig
+-Judecătoria Mediaș
+-Judecătoria Săliște
+-Judecătoria Sibiu
+Tribunalul Suceava
+-Judecătoria Câmpulung Moldovenesc
+-Judecătoria Fălticeni
+-Judecătoria Gura Humorului
+-Judecătoria Rădăuți
+-Judecătoria Suceava
+-Judecătoria Vatra Dornei
+Tribunalul Teleorman
+-Judecătoria Alexandria
+-Judecătoria Roșiori De Vede
+-Judecătoria Turnu Măgurele
+-Judecătoria Videle
+-Judecătoria Zimnicea
+Tribunalul Timiș
+-Judecătoria Deta
+-Judecătoria Făget
+-Judecătoria Lugoj
+-Judecătoria Sânnicolau Mare
+-Judecătoria Timișoara
+Tribunalul Tulcea
+-Judecătoria Babadag
+-Judecătoria Macin
+-Judecătoria Tulcea
+Tribunalul Vâlcea
+-Judecătoria Bălcești
+-Judecătoria Brezoi
+-Judecătoria Drăgășani
+-Judecătoria Horezu
+-Judecătoria Râmnicu Vâlcea
+Tribunalul Vaslui
+-Judecătoria Bârlad
+-Judecătoria Huși
+-Judecătoria Murgeni
+-Judecătoria Vaslui
+Tribunalul Vrancea
+-Judecătoria Adjud
+-Judecătoria Focșani
+-Judecătoria Panciu

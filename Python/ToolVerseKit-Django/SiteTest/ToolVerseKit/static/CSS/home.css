@@ -1,0 +1,8 @@
+.material-icons{
+    position : relative ;
+    bottom : -3px ;
+    }
+.nav-item a.nav-link[href="http://localhost:8080/signup"] , .nav-item a.nav-link[href="#"] , .nav-item a.nav-link[href="http://localhost:8080/recoverpassword"] , .navbar-brand[href=""] , .nav-item a.nav-link[href="http://localhost:8080/login"]{
+    font-family : "Times New Roman" ;
+    font-size : 30px ;
+    }

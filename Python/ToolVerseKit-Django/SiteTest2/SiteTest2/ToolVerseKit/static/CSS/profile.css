@@ -1,0 +1,23 @@
+.material-icons{
+    position : relative ;
+    bottom : -3px ;
+    }
+.nav-item a.nav-link[href=""] , .navbar-brand[href=""] , .nav-item a.nav-link[href="http://localhost:8080/home/<str:username>/"]{
+    font-family : "Times New Roman" ;
+    font-size : 30px ;
+    }
+#surnameProfile , #nameProfile , #userProfile , #emailProfile , #passwordProfile{
+    font-family : "Times New Roman" ;
+    font-size : 20px ;
+    max-width : 500px
+    }
+#updateData{
+    font-family : "Times New Roman" ;
+    font-size : 20px ;
+    }
+.dropdown-menu a.dropdown-item , .form-submit-button {
+    color: white;
+}
+a.dropdown-item:hover {
+    color: black;
+}

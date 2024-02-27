@@ -1,0 +1,83 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>ToolVerseKit - Profile</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{% static 'CSS/profile.css' %}">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="">ToolVerseKit</a>
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="http://localhost:8080/home/<str:username>/"><span class="material-icons">home</span>Home</a></li>
+                <li class="nav-item"><a class="nav-link" href=""><span class="material-icons">password</span>Account Manager</a></li>
+                <li class="nav-item"><a class="nav-link" href=""><span class="material-icons">music_note</span>YouTube Music Download</a></li>
+                <li class="nav-item"><a class="nav-link" href=""><span class="material-icons">picture_as_pdf</span>PDFs Merger</a></li>
+            </ul>
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <span class="material-icons">reorder</span>
+                    </a>
+                    <ul class="dropdown-menu dropdown-menu-end bg-dark">
+                        <form method="post" id="profileForm">
+                            {% csrf_token %}
+                            <button type="submit" class="dropdown-item form-submit-button">Profile</button>
+                        </form>
+                      <li><a class="dropdown-item" href="#">Payment Methods</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                        <form method="post" id="logoutForm">
+                            {% csrf_token %}
+                            <button type="submit" class="dropdown-item form-submit-button">Logout</button>
+                        </form>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <center>
+            <div class="mb-3">
+                <input type="text" class="form-control" id="surnameProfile" name="surnameProfile" placeholder="Surname">
+            </div>
+            <div class="mb-3">
+                <input type="text" class="form-control" id="nameProfile" name="nameProfile" placeholder="Name">
+            </div>
+            <div class="mb-3">
+                <input type="text" class="form-control" id="userProfile" name="userProfile" placeholder="Username">
+            </div>
+            <div class="mb-3">
+                <input type="Email" class="form-control" id="emailProfile" name="emailProfile" placeholder="Email">
+            </div>
+            <div class="mb-3">
+                <input type="password" class="form-control" id="passwordProfile" name="passwordProfile" placeholder="New Password">
+            </div>
+            <div class="mb-3">
+                <button type="submit" class="btn btn-primary btn-dark" id="updateData" name="updateData">Update Data</button>
+            </div>
+        </center>
+    </body>
+</html>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function () {
+        $("#logoutForm").submit(function (e) {
+            e.preventDefault();
+            $.ajax({
+                type: "POST",
+                url: "{% url 'logoutFunction' %}",
+                data: $(this).serialize(),
+                success: function (response) {
+                    console.log(response);
+                    window.location.href = "{% url 'home' %}";
+                },
+                error: function (error) {
+                    console.error(error);
+                }
+            });
+        });
+    });
+</script>
