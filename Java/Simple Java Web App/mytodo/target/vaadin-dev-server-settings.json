@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "B:/Projects/Proiect Java/vaadin/my-todo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "B:/Projects/Proiect Java/vaadin/my-todo/./frontend/generated/jar-resources",
+  "staticOutput": "B:/Projects/Proiect Java/vaadin/my-todo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "B:\\Projects\\Proiect Java\\vaadin\\my-todo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "B:\\Projects\\Proiect Java\\vaadin\\my-todo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "B:/Projects/Proiect Java/vaadin/my-todo/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "B:/Projects/Proiect Java/vaadin/my-todo/target/dev-bundle/config",
+  "jarResourcesFolder": "B:/Projects/Proiect Java/vaadin/my-todo/./frontend/generated/jar-resources",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "B:\\Projects\\Proiect Java\\vaadin\\my-todo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
